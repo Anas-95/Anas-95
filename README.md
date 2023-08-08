@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Development and Blockchain 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Open source projects and startups
-- 📫 How to reach me https://www.linkedin.com/in/anas-salama-/ 
+- 📫 How to reach me https://www.linkedin.com/in/anas-salama-/
 
 <!---
 Anas-95/Anas-95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
